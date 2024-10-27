@@ -1,4 +1,4 @@
-setblock ~ ~1 ~ gray_concrete destroy
+setblock ~ ~-1 ~ gray_concrete destroy
 data modify storage abc: input set value []
 data modify storage abc: temp set from block ~ ~ ~ Items[0].components."minecraft:written_book_content".pages
 data modify storage abc: key set value "input"
