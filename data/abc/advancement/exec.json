@@ -1,0 +1,11 @@
+{
+    "criteria": {
+        "on_clicked": {
+            "trigger": "minecraft:default_block_use",
+            "conditions": {}
+        }
+    },
+    "rewards": {
+        "function": "abc:system/start"
+    }
+}
