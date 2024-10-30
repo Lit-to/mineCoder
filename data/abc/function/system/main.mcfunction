@@ -1,5 +1,5 @@
 # setblock 0 -58 3 minecraft:dropper 
-execute if score
+# execute if score
 
 
 #クールタイム
